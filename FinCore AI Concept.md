@@ -31,4 +31,6 @@ As a concept, In a FinTech environment, where agentic AI moves beyond "chatbots"
 The group of executives approve the concept, then typically form a Responsible AI Governance Committee (or AI Steering Committee). This group is responsible for signing an AI Governance Committee Charter, which defines:
 
   + The Accountable Executive: Who falls legally acountable or loses their bonus if the agent makes a multi-million dollar error.
-  + The Risk Tier: Whether the AI is High Risk (e.g., credit scoring) or Low Risk (e.g., internal document search), which dictates how many Consulted and Informed stakeholders are needed in the RACI Chart to be made. Once the AI Governance Committee Charter is signed, the "concept" phase officially ends and the operationalization phase begins. The AI GRC Architect uses this signed mandate to move from high-level vision to enforceable technical and operational controls.
+  + The Risk Tier: Whether the AI is High Risk (e.g., credit scoring) or Low Risk (e.g., internal document search), which dictates how many Consulted and Informed stakeholders are needed in the RACI Chart to be made.
+
+Once the AI Governance Committee Charter is signed, the "concept" phase officially ends and the operationalization phase begins. The AI GRC Architect uses this signed mandate to move from high-level vision to enforceable technical and operational controls.
