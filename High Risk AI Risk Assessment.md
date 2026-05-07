@@ -155,6 +155,14 @@ An AI System Classification form is a mandatory document under the EU AI Act use
   + Governance and Human Oversight Mechanisms: Documentation of defined authority boundaries (guardrails), "human-on-the-loop" mechanisms, and escalation procedures for unexpected behavior.
   + Traceability and Logging: A plan for logging key decisions made by the agent, including the input and output data that led to a specific autonomous action.
 
+This is best found in:
+
+  + EU AI Act Compliance Checker: Determining if your agent falls into "High Risk" categories (like HR, credit scoring, or critical infrastructure).
+  + OECD AI System Classification Tool:Best for: International businesses that need a classification recognized by 38+ member countries.
+  + Dutch Authority for Digital Infrastructure (RDI) Selector.
+  + EU Digital SME Alliance Conformity Tool.
+  + NIST AI RMF Playbook.
+
   ### 4) Algorithmic Impact Assessment Questionnaire:
 
 An Algorithmic Impact Assessment (AIA) form is a structured, often questionnaire-based tool used to evaluate, identify, and mitigate potential risks—such as bias, unfairness, and security threats—associated with the implementation of automated decision-making systems. It is a critical governance and risk management document designed to ensure AI operates responsibly, ethically, and in compliance with regulations (like the EU AI Act) before deployment. Agentic AI is highly autonomous, multi-step, and tool-enabled, requiring an advanced, comprehensive AIA. An AIA for agentic systems must focus on the following elements:
@@ -187,6 +195,16 @@ An Algorithmic Impact Assessment (AIA) form is a structured, often questionnaire
   + Stakeholder Engagement:
       - Impacted Parties: Identification of individuals or groups likely to be affected.
       - Consultation: Documentation of engagement with those parties.
+
+These assessments can be found through:
+
+  + Government of Canada AIA Tools: General impact level classification and alignment with administrative law.
+  + AEPD (Spanish Data Protection Authority): Ensuring GDPR compliance for autonomous agents.
+  + EqualAI AIA Tool: US-based legal compliance and reducing "human-out-of-the-loop" liability.
+  + IAPP (International Association of Privacy Professionals): Mostly reserved for members.
+  + ISO/IEC 42005 (AI System Impact Assessment)
+  + ForHumanity.
+  + ISO/IEC 42005 (AI System Impact Assessment).
 
 
   ### 5) AI Vendor Assessment Questionnaire:
