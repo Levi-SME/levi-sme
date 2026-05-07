@@ -249,3 +249,13 @@ A Provenance and Privacy Assessment is a specialized, proactive risk-analysis re
   + Assessment of Risk Severity: Evaluation of the likelihood and impact of privacy breaches arising from the provenance data.
   + Mitigation Measures: Recommendations on how to secure provenance data, such as data redaction (removing sensitive metadata), implementing access controls, or using privacy-preserving techniques (like anonymizing graph nodes).
   + Compliance Verification: Confirmation that the data handling complies with regulations like GDPR or local privacy laws.
+
+  ### 9) Fundamental Rights Impact Assessment Questionnaire:
+
+A Fundamental Rights Impact Assessment (FRIA) is a mandatory, structured evaluation process required under Article 27 of the EU AI Act. It requires specific deployers of high-risk AI systems to analyze potential risks to individuals' fundamental rights—such as non-discrimination, privacy, and access to legal remedies—before the system is put into operation. Key aspects are:
+
+  + Targeted Users: Mandatory for public authorities, entities acting on behalf of public authorities, and private entities providing essential services (e.g., banks, insurance, healthcare) using high-risk AI, as listed in Annex III of the EU AI Act.
+  + When it Applies: It must be conducted before AI systems are deployed, particularly for areas like education, employment, and biometric identification.
+  + Goal: To identify and mitigate risks to fundamental rights, such as discriminatory hiring, biased loan approvals, or privacy violations, ensuring compliance with European regulations and the EU Charter of Fundamental Rights.
+  + Mandatory Components: The assessment must document the specific processes in which the AI will be used, the intended population affected, the risks of harm, human-oversight measures, and mitigation plans.
+  + Deadline: The mandatory FRIA requirements go into effect on August 2, 2026.
