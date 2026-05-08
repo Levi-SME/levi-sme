@@ -60,3 +60,5 @@ Once the decommissioning steps are finalized, the company enters the post-retire
 ## Personnel Transition:
 
 + Upskilling: Employees previously managing the AI are transitioned to new roles or trained on the manual fallback processes to ensure operational resilience.
+
+**_Note: Despite the AI being operationally dead, the data kept is are often legally required to keep the records, logs, and decision-logic of that AI for 5 to 10 years (depending on the jurisdiction). If a regulator asks why a loan was denied three years ago, you must be able to bring back the logic of that decommissioned AI to explain it._**
