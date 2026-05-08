@@ -1,3 +1,5 @@
+# Case Study Project:
+
 # Executive Summary: The Lifecycle of FinCore AI
 
 ## Project Overview:
